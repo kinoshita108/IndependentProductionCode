@@ -1,2 +1,2 @@
 # IndependentProductionCode
-自主制作したゲームのソースコード
+エンジニア志望の提出物
